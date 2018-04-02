@@ -5,6 +5,7 @@
 [![Dependency Status][daviddm-url]][daviddm-image]
 [![Code Climate](https://codeclimate.com/github/ludoviclefevre/hexo-generator-seo-friendly-sitemap/badges/gpa.svg)](https://codeclimate.com/github/ludoviclefevre/hexo-generator-seo-friendly-sitemap)
 [![Codacy Badge](https://www.codacy.com/project/badge/afb430e84ace4295acb02b9f7e70566b)](https://www.codacy.com/app/contact_18/hexo-generator-seo-friendly-sitemap)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRohanSakhale%2Fhexo-generator-seo-friendly-sitemap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRohanSakhale%2Fhexo-generator-seo-friendly-sitemap?ref=badge_shield)
 
 Generate SEO-friendly sitemap.
 
@@ -53,3 +54,6 @@ MIT © [Ludovic LEFEVRE](http://www.ludoviclefevre.fr)
 [travis-image]: https://travis-ci.org/ludoviclefevre/hexo-generator-seo-friendly-sitemap.svg?branch=master
 [daviddm-url]: https://david-dm.org/ludoviclefevre/hexo-generator-seo-friendly-sitemap.svg?theme=shields.io
 [daviddm-image]: https://david-dm.org/ludoviclefevre/hexo-generator-seo-friendly-sitemap
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRohanSakhale%2Fhexo-generator-seo-friendly-sitemap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRohanSakhale%2Fhexo-generator-seo-friendly-sitemap?ref=badge_large)
